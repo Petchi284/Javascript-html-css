@@ -6,4 +6,4 @@
 
 
 
-![joke img2](https://github.com/Petchi284/Javascript-html-css/assets/145541034/f09e28a2-dc51-41aa-ac9b-f27300fa6eda)
+![joke img3](https://github.com/Petchi284/Javascript-html-css/assets/145541034/73165418-aa8c-40ab-98d2-c8bb450342d2)
